@@ -6,6 +6,7 @@
            PSG CAS Book Store is a mini project developed using Python as a sample project for my college. It is designed for managing bills and orders in a college bookstore. This project is intended for administrators to streamline billing and inventory management.
 
 **Features**
+
 **Products Page:** Add products, update costs based on quantity, and calculate the total cost. Clear the list when needed.
 
 
